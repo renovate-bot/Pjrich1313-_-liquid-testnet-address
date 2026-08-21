@@ -1,4 +1,4 @@
-#/usr/bin/env python3
+#!/usr/bin/env python3
 """
 RPC Auth Generator for Elements Core / Bitcoin Core
 Generates secure rpcauth lines for elements.conf or bitcoin.conf
